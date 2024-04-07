@@ -42,7 +42,7 @@ let level
     else if (victoryBalance >= 101) {
         level = "Imortal"
     }
-
+//a
 //console.log(level) - Usei para testar anteriormente
 
 console.log(`O Herói tem de saldo de ${victoryBalance} está no nível de ${level}`)
